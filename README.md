@@ -1,0 +1,2 @@
+# schooldealplatform.github.io
+schooldeal
